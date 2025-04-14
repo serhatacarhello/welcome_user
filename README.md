@@ -1,0 +1,1 @@
+![welcome_user_gif](../welcome_user.gif)
